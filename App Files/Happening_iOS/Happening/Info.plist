@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1142355123249492</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.905047191912-5n8o2q0dh9vii3fl685tc5tqdohhpfme</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<false/>
+	<key>FacebookAppID</key>
+	<string>1142355123249492</string>
+	<key>FacebookAutoLogAppEventsEnabled</key>
+	<false/>
+	<key>FacebookClientToken</key>
+	<string>47ef81fd45c9604c0ba902f0dfc80531</string>
+	<key>FacebookDisplayName</key>
+	<string>Happening</string>
+	<key>FirebaseAutomaticScreenReportingEnabled</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>uber</string>
+		<string>uberauth</string>
+		<string>fbauth2</string>
+		<string>comgooglemaps</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SFUIDisplay-Medium.otf</string>
+		<string>Lora-Medium.ttf</string>
+		<string>Norican-Regular.ttf</string>
+		<string>CaveatBrush-Regular.ttf</string>
+		<string>Anton-Regular.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+	<key>UberClientID</key>
+	<string>2-5zAdlDbNGeecZCnkHuYAevG1l_tUFl</string>
+	<key>UberDisplayName</key>
+	<string>Happening</string>
+</dict>
+</plist>

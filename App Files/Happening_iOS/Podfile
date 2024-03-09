@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Happening' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Happening
+  pod 'UberRides', '~> 0.9'
+  pod 'FBSDKLoginKit', '~> 9.1.0' 
+  pod 'Firebase'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
+  pod 'Firebase/DynamicLinks'
+  pod 'Firebase/Firestore'
+  pod 'FirebaseFirestoreSwift', '> 7.0-beta'
+  pod 'Firebase/Functions'
+  pod 'Firebase/Storage'
+  pod 'GoogleSignIn'
+  pod 'SDWebImageSwiftUI'
+end
